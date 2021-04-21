@@ -30,6 +30,7 @@ avatar: assets/images/iv2.jpg
 
 # Build settings
 theme: jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 
 github_url: https://github.com/lazar2222
