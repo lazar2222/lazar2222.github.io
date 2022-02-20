@@ -18,8 +18,8 @@ order: 2
 ### Projekti
 [Specifikacija i referentna implementacija magistrale za komunikaciju sa periferijskim uređajima u računarskom sistemu](https://lazar2222.github.io/ETF/PCIw.pdf)  
 [Referentna implementacija PCIw u alatu Logisim Evolution v3.4.1](https://lazar2222.github.io/ETF/PCIw0.9.circ)  
-[Sintaksa Zolakod jezika za pisanje mikrokoda](https://lazar2222.github.io/ETF/Zolakod.pdf) 
-[Projekat na predmetu "Operativni sistemi 2", implementacija algoritama raspoređivanja na operativnom sistemu xv6](https://github.com/lazar2222/OS2Project/blob/master/OS2Projekat.pdf) 
+[Sintaksa Zolakod jezika za pisanje mikrokoda](https://lazar2222.github.io/ETF/Zolakod.pdf)  
+[Projekat na predmetu "Operativni sistemi 2", implementacija algoritama raspoređivanja na operativnom sistemu xv6](https://github.com/lazar2222/OS2Project/blob/master/OS2Projekat.pdf)  
 ### Maturski Rad "Čovek mašina interfejs za primenu u muzici"
 [Tekst rada](https://lazar2222.github.io/Maturski/Lazar_Premović-Čovek_mašina_interfejs_za_primenu_u_muzici.pdf)  
 [Odbrana rada](https://lazar2222.github.io/Maturski/Odbrana.pdf)  
