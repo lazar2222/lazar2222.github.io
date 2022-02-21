@@ -24,3 +24,5 @@ order: 2
 [Tekst rada](https://lazar2222.github.io/Maturski/Lazar_Premović-Čovek_mašina_interfejs_za_primenu_u_muzici.pdf)  
 [Odbrana rada](https://lazar2222.github.io/Maturski/Odbrana.pdf)  
 [Tekst i odbrana spojeno](https://lazar2222.github.io/Maturski/Maturski_Combo.pdf)  
+### Izveštaji za studentski tim BEOAVIA
+[Kako (ne) programirati STM32](https://drive.google.com/file/d/1sEzPsa4hGjDz2rhmkSR1En1ivmGnZ6Cy/view?usp=sharing)
