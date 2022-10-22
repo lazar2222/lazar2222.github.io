@@ -25,5 +25,5 @@ order: 2
 [Odbrana rada](https://lazar2222.github.io/Maturski/Odbrana.pdf)  
 [Tekst i odbrana spojeno](https://lazar2222.github.io/Maturski/Maturski_Combo.pdf)  
 ### Izveštaji za studentski tim BEOAVIA
-[Kako (ne) programirati STM32](https://drive.google.com/file/d/1sEzPsa4hGjDz2rhmkSR1En1ivmGnZ6Cy/view?usp=sharing)       
-[Kako (mozda) programirati STM32](https://drive.google.com/file/d/1raaz053SdKq209Mh_RehD42KIZ_TzyqG/view?usp=sharing)        
+[Kako (ne) programirati STM32](https://lazar2222.github.io/BEOAVIA/Kako_(ne)_programirati_STM32.pdf)       
+[Kako (mozda) programirati STM32](https://lazar2222.github.io/BEOAVIA/Kako_(mozda)_programirati_STM32.pdf)        
