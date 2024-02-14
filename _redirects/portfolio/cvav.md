@@ -1,3 +1,3 @@
 ---
-redirect_to: https://github.com/lazar2222/resources/portfolio/CV_Lazar_Premovic_AV_[ENG].pdf
+redirect_to: https://lazar2222.github.com/resources/portfolio/CV_Lazar_Premovic_AV_[ENG].pdf
 ---

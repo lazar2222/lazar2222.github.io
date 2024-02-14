@@ -1,3 +1,3 @@
 ---
-redirect_to: https://github.com/lazar2222/resources/portfolio/PlayIT2019.pdf
+redirect_to: https://lazar2222.github.com/resources/portfolio/PlayIT2019.pdf
 ---
