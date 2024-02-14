@@ -1,6 +1,6 @@
 ---
 title: Lectures
-icon: fa-person-chalkboard
+icon: fa-chalkboard
 order: 4
 ---
 
