@@ -31,10 +31,17 @@ avatar: assets/images/iv2.jpg
 # Build settings
 #theme: jekyll-theme-prologue
 remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+collections: 
+  redirects:
+    output: true
+    permalink: /:path
+  sections:
 
 github_url: https://github.com/lazar2222
 instagram_url: https://www.instagram.com/lazarpremovic
+
+plugins:
+  - "jekyll-redirect-from"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
