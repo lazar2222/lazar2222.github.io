@@ -22,7 +22,7 @@ order: 3
 #### BSc
 
 [**Computer Security**](https://lazar2222.github.io/projects/zp): PGP implementation using standard cryprographic algorithms  
-[**E-business Inftastructure**](https://lazar2222.github.io/projects/iep): Backend for an e-comerce website  
+[**E-business Infrastructure**](https://lazar2222.github.io/projects/iep): Backend for an e-comerce website  
 <!-- [**Computer Sytems Performance**](https://lazar2222.github.io/projects/dvs): Hardware acceleration of image scaling   -->
 
 [**Compiler Construction 1**](https://lazar2222.github.io/projects/pp1): Compiler for a simple object-oriented Java-like language  
