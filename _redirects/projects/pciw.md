@@ -1,3 +1,3 @@
 ---
-redirect_to: https://github.com/lazar2222
+redirect_to: https://lazar2222.github.io/resources/projects/PCIw.pdf
 ---
